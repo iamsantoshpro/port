@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import ProfilePic from '../Img/profile_pic_png.png'
 import ReactTypingEffect from 'react-typing-effect';
 
@@ -27,9 +27,9 @@ export default function Banner(props) {
                     </dl>
                  </div>
                  <p className="personal-profile__social">
-                    <a href="https://github.com/iamsantoshpro" target="_blank"><i className="fa fa-github"></i></a>
-                    <a href="https://www.linkedin.com/in/santosh-kumar-a47b08a3/" target="_blank"><i className="fa fa-linkedin-square"></i></a>
-                    <a href="https://www.facebook.com/Skgbm/" target="_blank"><i className="fa fa-facebook-square"></i></a>
+                    <a href="https://github.com/iamsantoshpro" target="_blank" rel="noreferrer"><i className="fa fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/santosh-kumar-a47b08a3/" target="_blank" rel="noreferrer"><i className="fa fa-linkedin-square"></i></a>
+                    <a href="https://www.facebook.com/Skgbm/" target="_blank" rel="noreferrer"><i className="fa fa-facebook-square"></i></a>
                  </p>
               </div>
            </div>
