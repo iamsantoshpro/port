@@ -30,10 +30,10 @@ export default function Portfolio() {
       <div className="col-md-12">
          <nav>
             <ul>
-               <li><a rel="noreferrer" href="#" data-portfolio-target-tag="all">all</a></li>
-               <li><a rel="noreferrer" href="#" data-portfolio-target-tag="mobileapp">mobile apps</a></li>
-               <li><a rel="noreferrer" href="#" data-portfolio-target-tag="websites">web-sites</a></li>
-               <li><a rel="noreferrer" href="#" data-portfolio-target-tag="landingpage">landing pages</a></li>
+               <li><a rel="noreferrer" href="#all" data-portfolio-target-tag="all">all</a></li>
+               <li><a rel="noreferrer" href="#mobileapp" data-portfolio-target-tag="mobileapp">mobile apps</a></li>
+               <li><a rel="noreferrer" href="#websites" data-portfolio-target-tag="websites">web-sites</a></li>
+               <li><a rel="noreferrer" href="#landingpage" data-portfolio-target-tag="landingpage">landing pages</a></li>
             </ul>
          </nav>
       </div>
