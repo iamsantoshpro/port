@@ -1,7 +1,7 @@
 import React from 'react'
 import DownloadIcon from '../Img/img_btn_icon.png'
 import ReactTypingEffect from 'react-typing-effect';
-import cv from '../updated_CV.pdf'
+import cv from '../updated_march_cv.pdf'
 
 
 export default function Hello() {
